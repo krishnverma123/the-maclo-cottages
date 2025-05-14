@@ -1,6 +1,6 @@
 # The Maclo Cottages
 
-This is our hotel project using react.js vite
+This is our hotel project using react.js and vite Backend Supabase
 
 # React + Vite
 
